@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DynamicVishvaGIT.github.io/resources-7tlefb/sitemap.xml
